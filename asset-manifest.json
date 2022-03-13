@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yellowhack/static/css/main.4de44f09.css",
+    "main.js": "/yellowhack/static/js/main.d7e4de86.js",
+    "static/js/787.de608763.chunk.js": "/yellowhack/static/js/787.de608763.chunk.js",
+    "index.html": "/yellowhack/index.html",
+    "main.4de44f09.css.map": "/yellowhack/static/css/main.4de44f09.css.map",
+    "main.d7e4de86.js.map": "/yellowhack/static/js/main.d7e4de86.js.map",
+    "787.de608763.chunk.js.map": "/yellowhack/static/js/787.de608763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de44f09.css",
+    "static/js/main.d7e4de86.js"
+  ]
+}
